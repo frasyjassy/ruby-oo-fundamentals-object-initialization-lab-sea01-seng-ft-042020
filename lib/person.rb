@@ -3,5 +3,4 @@ class Person
     @name = JC
   end
 
-
 end
